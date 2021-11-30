@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* Possuo conhecimento técnico na área de montagem e manutenção de micro.
-* Atualmente estou estundado para me tornar um desenvolvedor. 
+* Atualmento moro no Brasil, Rio de Janeiro
+* Estou aprendendo sobre desenvolvimento web para futuramente me torna um desenvolvedor.
+* Ingles intermediario. 
 
 ### Contatos:
 
