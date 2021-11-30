@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 * Atualmento moro no Brasil, Rio de Janeiro
 * Estou aprendendo sobre desenvolvimento web para futuramente me torna um desenvolvedor.
-* Ingles intermediario. 
+* Habilidade com inglês intermediário.
+
 
 ### Contatos:
 
