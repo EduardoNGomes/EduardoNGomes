@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 * Possuo conhecimnete tecnico na area de montagem e manutecao de micro.
 * Atualmente estou estundado para me tornar um desenvolvedor 
 
-<a href="https://www.linkedin.com/in/eduardo-n-gomes-220610227/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<a href="https://www.linkedin.com/in/eduardo-n-gomes-220610227/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="max-widht:100%"  />
 </a>
 
-<a href="https://www.facebook.com/Eduardo.Gomes00"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+<a href="https://www.facebook.com/Eduardo.Gomes00"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" style="max-widht:100%" />
 </a>
 
 
