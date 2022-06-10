@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 
 ### Contatos:
 
-<a href="https://www.linkedin.com/in/eduardo-n-gomes-220610227/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="max-widht:100%"  />
-
-</a><a href="eduardo_n_gomes.dev@hotmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg"  width="40" height="40" style="max-widht:100%"/>  </a>
+<a href="https://www.linkedin.com/in/eduardo-n-gomes-220610227/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="max-widht:100%"  /></a><a href="eduardo_n_gomes.dev@hotmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg"  width="40" height="40" style="max-widht:100%"/>  </a>
 
 
 
