@@ -1,4 +1,4 @@
-### Olá eu sou Eduardo N Gomes,👋
+<h2 align="center">Hi,I am Eduardo N Gomes,👋</h2>
 
 <!--
 **EduardoNGomes/EduardoNGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* Atualmento moro no Brasil, Rio de Janeiro
-* Estou aprendendo sobre desenvolvimento web para futuramente me torna um desenvolvedor.
-* Habilidade com inglês intermediário.
+* I am living in Brasil, Rio de Janeiro
+* I am learning JS, REACT and Node.js.
 
 
-### Contatos:
+<h3 align="center">Contatos:
 
-<a href="https://www.linkedin.com/in/eduardo-n-gomes-220610227/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="max-widht:100%"  /></a><a href="eduardo_n_gomes.dev@hotmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg"  width="40" height="40" style="max-widht:100%"/>  </a>
-
+ <a href="https://www.linkedin.com/in/eduardo-n-gomes-220610227/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="max-widht:100%"  /> </a><a href="eduardo_n_gomes.dev@hotmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg"  width="40" height="40" style="max-widht:100%"/>  </a>
+</h3>
 
 
 
