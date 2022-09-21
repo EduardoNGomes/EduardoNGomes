@@ -1,4 +1,4 @@
-<h2 align="center">Hi,I am Eduardo N Gomes,👋</h2>
+<h2 align="center">Hi,I am Eduardo👋</h2>
 
 <!--
 **EduardoNGomes/EduardoNGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3>About me</4>
+
+* I love studying new technologies, I am currently looking for my first job as a developer while I can't work with it, I will keep learning more and more
+
+* I am a student at Rocketseat
+
 * I am living in Brasil, Rio de Janeiro
-* I am learning JS, REACT and Node.js.
 
 
-<h3 align="center">Contatos:
 
- <a href="https://www.linkedin.com/in/eduardo-n-gomes-220610227/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="max-widht:100%"  /> </a><a href="eduardo_n_gomes.dev@hotmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg"  width="40" height="40" style="max-widht:100%"/>  </a>
-</h3>
+<h3>Contatos:</h3>
+<ul>
+  <li>Email: eduardo_n_gomes.dev@hotmail.com</li>
+  <li><a href="https://www.linkedin.com/in/eduardo-n-gomes-220610227/">LinkedIn</a></li>
+  <li><a href="https://app.rocketseat.com.br/me/eduardo-gomes-04808">Rockeseat</a></li>
+</ul>
 
 
 
