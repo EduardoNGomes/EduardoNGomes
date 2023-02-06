@@ -1,36 +1,26 @@
-<h2 align="center">Hi,I am Eduardo👋</h2>
+# Hi,I am Eduardo👋
 
-<!--
-**EduardoNGomes/EduardoNGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-gomes-220610227/)
+[![LinkedIn](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eduardongomes.netlify.app/)
 
-Here are some ideas to get you started:
-  
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardongomes&show_icons=true&theme=dark)
 
-<h3>About me</4>
+## Tecnologias que possuo conhecimento
 
-* I love studying new technologies, I am currently looking for my first job as a developer while I can't work with it, I will keep learning more and more
+<div>
+<br/>
+  <img aling='center' alt='HTML' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
+  <img aling='center' alt='CSS' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
+  <img aling='center' alt='Javascript' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
+  <img aling='center' alt='Styled Components' src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
+  <img aling='center' alt='React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+  <img aling='center' alt='Redux' src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'/>
+  <img aling='center' alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
+</div>
+<br/>
 
-* I am a student at Rocketseat
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardongomes&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-* I am living in Brasil, Rio de Janeiro
-
-
-
-<h3>Contatos:</h3>
-<ul>
-  <li>Email: eduardo_n_gomes.dev@hotmail.com</li>
-  <li><a href="https://www.linkedin.com/in/eduardo-n-gomes-220610227/">LinkedIn</a></li>
-  <li><a href="https://app.rocketseat.com.br/me/eduardo-gomes-04808">Rockeseat</a></li>
-</ul>
 
 
 
