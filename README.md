@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-gomes-220610227/)
 [![LinkedIn](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eduardongomes.netlify.app/)
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardongomes&show_icons=true&theme=dark)
+
 
 ## Tecnologias que possuo conhecimento
 
@@ -19,8 +19,10 @@
 </div>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardongomes&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<div>
+<a href="https://github.com/eduardongomes">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardongomes&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardongomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
