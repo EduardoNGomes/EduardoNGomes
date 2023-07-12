@@ -5,7 +5,7 @@
 
 
 
-## Tecnologias que possuo conhecimento
+## Technology
 
 <div>
 <br/>
