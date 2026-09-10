@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-34495e?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/PostgreSQL-34495e?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/TypeScript-34495e?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-34495e?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-34495e?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-34495e?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Docker-34495e?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Go-0b1020?style=flat-square&logo=go&logoColor=00dc82" alt="Go" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0b1020?style=flat-square&logo=postgresql&logoColor=00dc82" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/TypeScript-0b1020?style=flat-square&logo=typescript&logoColor=00dc82" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-0b1020?style=flat-square&logo=nodedotjs&logoColor=00dc82" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-0b1020?style=flat-square&logo=react&logoColor=00dc82" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0b1020?style=flat-square&logo=nextdotjs&logoColor=00dc82" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Docker-0b1020?style=flat-square&logo=docker&logoColor=00dc82" alt="Docker" />
 </p>
 
 ## About
@@ -39,9 +39,9 @@ I enjoy turning ideas into reliable software—from HTTP APIs and authentication
 
 <p align="center">
   <a href="https://github.com/EduardoNGomes">
-    <img src="https://img.shields.io/badge/GitHub-EduardoNGomes-34495e?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-EduardoNGomes-00a155?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/eduardo-gomes-220610227/">
-    <img src="https://img.shields.io/badge/LinkedIn-Eduardo_Gomes-34495e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Eduardo_Gomes-00a155?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>

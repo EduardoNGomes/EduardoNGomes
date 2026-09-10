@@ -1,29 +1,60 @@
-<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="280" rx="16" fill="#0D1117"/>
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020618"/>
+      <stop offset="1" stop-color="#050914"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="70" y1="45" x2="1130" y2="255" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#070B17" stop-opacity="0.72"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="91" y1="88" x2="157" y2="154" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00DC82"/>
+      <stop offset="1" stop-color="#00A155"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(165 8) rotate(27) scale(470 310)">
+      <stop stop-color="#00DC82" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#00DC82" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse">
+      <path d="M52 0H0V52" stroke="#94A3B8" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
 
-  <g opacity="0.55" stroke="#2B4057" stroke-width="2">
-    <path d="M-70 35C30-25 108 12 164 55C220 98 294 102 350 54C406 6 474-10 542 29C610 68 658 70 725 28C792-14 864-2 924 42C984 86 1065 102 1270 12"/>
-    <path d="M-65 58C31 3 101 34 153 73C205 112 286 126 354 71C422 16 477 13 537 48C597 83 659 94 731 49C803 4 858 16 918 61C978 106 1061 120 1265 37"/>
-    <path d="M-60 82C34 31 98 57 145 92C192 127 276 151 357 91C438 31 481 38 532 67C583 96 659 120 737 71C815 22 853 39 913 84C973 129 1058 141 1260 63"/>
-    <path d="M-55 108C37 61 95 80 137 111C179 142 267 176 360 112C453 48 485 65 527 88C569 111 659 146 743 95C827 44 849 65 908 108C967 151 1055 162 1255 90"/>
-    <path d="M-50 136C41 92 94 104 132 131C170 158 260 202 365 135C470 68 490 92 524 109C558 126 658 173 749 121C840 69 848 91 906 132C964 173 1051 185 1250 119"/>
-    <path d="M-45 166C45 125 95 131 129 154C163 177 257 228 370 160C483 92 497 121 523 133C549 145 657 201 755 150C853 99 849 120 907 158C965 196 1048 210 1245 150"/>
-    <path d="M-40 198C49 160 98 158 129 178C160 198 255 252 376 188C497 124 506 153 525 161C544 169 656 229 761 181C866 133 852 151 910 186C968 221 1045 238 1240 183"/>
-    <path d="M-35 232C53 198 102 187 133 204C164 221 256 270 382 220C508 170 516 185 531 190C546 195 657 254 768 215C879 176 858 184 916 216C974 248 1043 265 1235 220"/>
-    <path d="M-30 264C59 236 109 218 143 231C177 244 263 281 390 251C517 221 526 217 540 219C554 221 661 273 776 251C891 229 867 218 924 247C981 276 1041 287 1230 257"/>
+  <rect width="1200" height="300" rx="16" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#glow)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+
+  <rect x="52" y="40" width="1096" height="220" rx="18" fill="url(#panel)" stroke="#94A3B8" stroke-opacity="0.18"/>
+  <line x1="53" y1="41" x2="1147" y2="41" stroke="#F8FAFC" stroke-opacity="0.08"/>
+
+  <rect x="88" y="83" width="68" height="68" rx="13" fill="url(#accent)"/>
+  <rect x="88.5" y="83.5" width="67" height="67" rx="12.5" stroke="#F8FAFC" stroke-opacity="0.22"/>
+  <text x="122" y="126" text-anchor="middle" fill="#02120B" font-family="Inter, Segoe UI, sans-serif" font-size="25" font-weight="800">EG</text>
+
+  <text x="184" y="112" fill="#F8FAFC" font-family="Inter, Segoe UI, sans-serif" font-size="42" font-weight="750">Eduardo Gomes</text>
+  <text x="186" y="143" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" letter-spacing="1.7">BACKEND ENGINEER · OPEN-SOURCE BUILDER</text>
+
+  <rect x="184" y="174" width="306" height="35" rx="7" fill="#00DC82" fill-opacity="0.07" stroke="#00DC82" stroke-opacity="0.24"/>
+  <circle cx="204" cy="191.5" r="4" fill="#00DC82"/>
+  <text x="219" y="197" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">Go / PostgreSQL / TypeScript</text>
+
+  <g transform="translate(805 73)">
+    <rect width="295" height="154" rx="11" fill="#020618" fill-opacity="0.78" stroke="#94A3B8" stroke-opacity="0.16"/>
+    <path d="M0 38H295" stroke="#94A3B8" stroke-opacity="0.13"/>
+    <circle cx="20" cy="19" r="4" fill="#64748B"/>
+    <circle cx="36" cy="19" r="4" fill="#94A3B8"/>
+    <circle cx="52" cy="19" r="4" fill="#00DC82"/>
+    <text x="272" y="24" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">~/workspace</text>
+
+    <text x="20" y="67" fill="#00DC82" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">$</text>
+    <text x="37" y="67" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">go build ./...</text>
+    <text x="20" y="94" fill="#00DC82" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">$</text>
+    <text x="37" y="94" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">go test ./...</text>
+    <text x="20" y="125" fill="#48E6A3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">✓ building useful software</text>
+    <rect x="20" y="137" width="112" height="2" rx="1" fill="#00DC82" fill-opacity="0.68"/>
   </g>
 
-  <g opacity="0.28" stroke="#58A6FF" stroke-width="1.5">
-    <path d="M65 0C83 39 78 73 49 101C20 129 17 169 44 202C71 235 78 257 70 280"/>
-    <path d="M92 0C112 43 105 82 72 113C39 144 38 170 63 197C88 224 103 251 99 280"/>
-    <path d="M1110 0C1091 40 1096 74 1126 103C1156 132 1159 169 1132 202C1105 235 1099 258 1107 280"/>
-    <path d="M1082 0C1062 44 1069 83 1102 114C1135 145 1136 171 1111 198C1086 225 1071 252 1075 280"/>
-  </g>
-
-  <rect x="365" y="70" width="470" height="140" rx="18" fill="#0D1117" fill-opacity="0.72"/>
-  <text x="600" y="132" text-anchor="middle" fill="#F0F6FC" font-family="Inter, Segoe UI, sans-serif" font-size="42" font-weight="600">Hey! I'm Eduardo.</text>
-  <text x="600" y="172" text-anchor="middle" fill="#8B949E" font-family="Inter, Segoe UI, sans-serif" font-size="20" letter-spacing="1.5">BACKEND-FOCUSED SOFTWARE ENGINEER</text>
-  <circle cx="561" cy="195" r="3" fill="#58A6FF"/>
-  <line x1="573" y1="195" x2="627" y2="195" stroke="#58A6FF" stroke-width="2" stroke-linecap="round"/>
-  <circle cx="639" cy="195" r="3" fill="#58A6FF"/>
+  <path d="M52 221V242C52 251.941 60.0589 260 70 260H91" stroke="#00DC82" stroke-opacity="0.7" stroke-width="2"/>
+  <path d="M1148 79V58C1148 48.0589 1139.94 40 1130 40H1109" stroke="#00DC82" stroke-opacity="0.7" stroke-width="2"/>
 </svg>
