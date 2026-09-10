@@ -16,7 +16,7 @@
 
 Hello! I'm **Eduardo Gomes**, a software engineer from Brazil with a full-stack background and a growing focus on backend engineering with Go.
 
-I enjoy turning ideas into reliable software—from HTTP APIs and authentication flows to developer tools and external-service integrations. I care about clear boundaries, maintainable code, automated tests, and understanding the trade-offs behind technical decisions.
+I enjoy turning ideas into reliable software from HTTP APIs and authentication flows to developer tools and external-service integrations. I care about clear boundaries, maintainable code, automated tests, and understanding the trade-offs behind technical decisions.
 
 - 🛠️ **Building:** Backend services and developer tools with Go
 - 🌱 **Improving:** Software architecture, application security, and distributed systems
