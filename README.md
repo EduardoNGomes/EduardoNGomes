@@ -1,44 +1,47 @@
-# Eduardo Gomes 
+<p align="center">
+  <img src="./assets/banner.svg" alt="Hey! I'm Eduardo — Backend-focused software engineer" width="100%" />
+</p>
 
-## 👨‍💻 Full Stack Developer
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-34495e?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PostgreSQL-34495e?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/TypeScript-34495e?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-34495e?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-34495e?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-34495e?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Docker-34495e?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-Passionate about building elegant solutions to complex problems. I specialize in modern web technologies with a focus on performance, accessibility, and clean code.
+## About
 
-## 🛠 Tech Stack
+Hello! I'm **Eduardo Gomes**, a software engineer from Brazil with a full-stack background and a growing focus on backend engineering with Go.
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+I enjoy turning ideas into reliable software—from HTTP APIs and authentication flows to developer tools and external-service integrations. I care about clear boundaries, maintainable code, automated tests, and understanding the trade-offs behind technical decisions.
 
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eduardongomes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardongomes&theme=radical&hide_border=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardongomes&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-  
-</div>
-
-## 🔥 Currently
-
-- 🔭 Working on exciting new projects with React and Node.js
-- 🌱 Learning advanced TypeScript patterns and Go
-- 💬 Ask me about web development, career growth, or tech in general
-- 📫 How to reach me: [via LinkedIn](https://www.linkedin.com/in/eduardo-gomes-220610227/)
-
+- 🛠️ **Building:** Backend services and developer tools with Go
+- 🌱 **Improving:** Software architecture, application security, and distributed systems
+- 🧪 **Practicing:** Unit, integration, and end-to-end testing
+- 🧭 **Background:** TypeScript, Node.js, React, and Next.js
+- 🌎 **Based in:** Brazil
+- 💬 **Ask me about:** Go, backend development, APIs, and developer tooling
+- 📫 **Contact:** Send me a message on [LinkedIn](https://www.linkedin.com/in/eduardo-gomes-220610227/)
 
 ---
 
-⭐️ From [eduardongomes](https://github.com/eduardongomes)
+## Selected work
+
+- **[sharing-things](https://github.com/EduardoNGomes/sharing-things)** — Go backend with PostgreSQL, GORM, Atlas migrations, JWT authentication, and end-to-end tests.
+- **[envschema](https://github.com/EduardoNGomes/envschema)** — Dependency-free Go library for loading, converting, and validating environment variables from struct definitions.
+- **[mcp-calendar](https://github.com/EduardoNGomes/mcp-calendar)** — Go MCP server for Google Calendar authentication, events, invitations, recurrence, and Google Meet.
+- **[gc-ai](https://github.com/EduardoNGomes/gc-ai)** — Go CLI that generates Conventional Commit messages from staged Git changes with AI.
+
+---
+
+<p align="center">
+  <a href="https://github.com/EduardoNGomes">
+    <img src="https://img.shields.io/badge/GitHub-EduardoNGomes-34495e?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/eduardo-gomes-220610227/">
+    <img src="https://img.shields.io/badge/LinkedIn-Eduardo_Gomes-34495e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
